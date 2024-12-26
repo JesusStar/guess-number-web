@@ -89,5 +89,5 @@ cd guess-number
 - Сохранённые игры остаются в вашем браузере, пока вы не очистите локальные данные.
 - Для обновления проекта просто загрузите последнюю версию репозитория.
 ## Ссылки
-[GitHub Репозиторий](https://github.com/DmitriiKolotuhin/guess-number-web)
-[Играть через GitHub Pages](https://dmitriikolotuhin.github.io/guess-number-web/)
+[GitHub Репозиторий](https://github.com/JesusStar/guess-number-web)
+[Играть через GitHub Pages](https://jesusstar.github.io/guess-number-web/)
